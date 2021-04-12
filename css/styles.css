@@ -1,0 +1,156 @@
+body
+{
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+#title 
+{
+    background-color: crimson;
+}
+
+.nav-title
+{
+    font-size: 3rem !important;
+    text-align: center !important;
+}
+h1
+{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 4rem !important;
+    line-height: 1.5 !important;
+    color: #fff !important;
+    margin-top: 4rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.nav-item
+{
+    padding: 0 3rem;
+    font-size: 1.2rem;
+}
+
+.nav-link:hover
+{
+    background-color: #d82536;
+}
+
+.container-Fluid
+{
+    padding: 3% 15%;
+}
+
+.maintext
+{
+    padding: 3rem 2rem;
+}
+
+.pt-container img 
+{
+   
+    width: 20rem;
+    height: 35rem;
+}
+
+
+.pt-container
+{
+    text-align: center;
+}
+
+/* Service info */
+
+#features
+{
+    padding: 6% 15%;
+}
+
+.Sinfo
+{
+    padding: 5%;
+    text-align: center;
+}
+.Sinfo h3
+{
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+}
+.icon
+{
+    color: #ef8172;
+    padding: 4% 0;
+}
+
+.icon:hover
+{
+    color: #ff4c68;
+}
+
+/* Testimonial */
+
+#testimonials
+{
+    text-align: center;
+    background-color: crimson;
+}
+
+.testimonial-text
+{
+    font-family: 'Kiwi Maru', serif;
+    font-size: 3rem;
+    color: white;
+}
+
+.testimonial-image
+{
+    border-radius: 50%;
+    margin-left: 8% !important;
+}
+
+.carousel-inner
+{
+    padding: 2% 9%;
+}
+
+/* press */
+
+#press
+{
+    background-color: crimson;
+    text-align: center;
+    
+}
+
+.press-icon
+{
+    padding: 1.8rem;
+    margin: 2rem;
+}
+
+/* Pricing */
+
+#pricing
+{
+    text-align: center;
+}
+
+.p-head
+{
+    padding-top: 3rem;
+}
+.card-body
+{
+    text-align: center;
+    /* margin: 4%; */
+
+}
+.card
+{
+    margin: 4%;
+}
+
+/* call to action */
+
+#cta
+{
+    text-align: center;
+}
